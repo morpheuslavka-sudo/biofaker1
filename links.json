@@ -1,0 +1,41 @@
+{
+  "version": 1,
+  "lastUpdated": "2025-11-12T00:00:00Z",
+  "links": [
+    {
+      "id": "1",
+      "name": "Telegram канал",
+      "url": "https://t.me/+wesK3Mh53RlmMzY0",
+      "type": "telegram",
+      "description": "Наш основной Telegram канал с новостями и обновлениями"
+    },
+    {
+      "id": "2",
+      "name": "Основной сайт BioFaker",
+      "url": "https://biofaker.com/",
+      "type": "website",
+      "description": "Официальный веб-сайт проекта BioFaker"
+    },
+    {
+      "id": "3",
+      "name": "YouTube канал",
+      "url": "https://www.youtube.com/@biofaker_morpheus_lavka",
+      "type": "website",
+      "description": "Наш YouTube канал с видео и обзорами"
+    },
+    {
+      "id": "4",
+      "name": "Актуальные контакты",
+      "url": "https://docs.google.com/document/d/1wgMGPTvD75FyMWyX9mFCuANikPzkQu96hMDIqK4Q-nc/edit?tab=t.0",
+      "type": "website",
+      "description": "Документ с актуальными контактами на случай блокировок"
+    },
+    {
+      "id": "5",
+      "name": "Личный Telegram",
+      "url": "https://t.me/morpheus_biofaker",
+      "type": "telegram",
+      "description": "Связаться напрямую с создателем проекта"
+    }
+  ]
+}
